@@ -1,0 +1,19 @@
+{
+  "name": "overwatch-videoanalyzer",
+  "version": "1.0.0",
+  "description": "An instrument for the analysis of Overwatch replay videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsawwassen/Overwatch-VideoAnalyzer.git"
+  },
+  "author": "Mitchell Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tsawwassen/Overwatch-VideoAnalyzer/issues"
+  },
+  "homepage": "https://github.com/Tsawwassen/Overwatch-VideoAnalyzer#readme"
+}
