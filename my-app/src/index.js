@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import VideoAnalyzer from './components/VideoAnalyzer';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <VideoAnalyzer />
   </React.StrictMode>,
   document.getElementById('root')
 );
